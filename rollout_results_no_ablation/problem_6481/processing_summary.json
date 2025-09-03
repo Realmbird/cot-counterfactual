@@ -1,0 +1,14 @@
+{
+  "problem_id": "problem_6481",
+  "total_sentences": 187,
+  "processed_sentences": 187,
+  "successful_sentences": 187,
+  "failed_sentences": 0,
+  "generation_params": {
+    "num_rollouts": 6,
+    "batch_size": 6,
+    "temperature": 0.6,
+    "top_p": 0.95
+  },
+  "resumed_from_sentence": 187
+}
